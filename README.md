@@ -16,4 +16,4 @@ I've worked on a diverse range of projects, from web applications to mobile apps
 
 Feel free to connect with me and explore my work. Let's collaborate and build amazing things together! 🌟
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejoC98)](https://github.com/AlejoC98/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejoC98)](https://github.com/AlejoC98/github-readme-stats&show_icons=true)
