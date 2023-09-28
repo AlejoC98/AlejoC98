@@ -26,7 +26,7 @@ Here are two of my latest projects that I'm proud of:
 
 ![App Name 1](Poke-Match.png)
 
-_Description: Briefly describe what this app does and any notable technologies used._
+_Description: Dive into the captivating world of Pokémon with my Poke Match Game and Pokémon TCG Card Viewer! This project combines the excitement of a memory match game with the comprehensive experience of exploring the Pokémon Trading Card Game universe._
 
 #### Collage Register App: ([Check Me!](https://github.com/AlejoC98/RegisterApp))
 
