@@ -17,3 +17,27 @@ I've worked on a diverse range of projects, from web applications to mobile apps
 Feel free to connect with me and explore my work. Let's collaborate and build amazing things together! 🌟
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejoC98)](https://github.com/AlejoC98/github-readme-stats&show_icons=true)
+
+### My Projects 🛠️
+
+Here are two of my latest projects that I'm proud of:
+
+#### Poke Match Game: [App Name 1](https://github.com/AlejoC98/React-PokeApp)
+
+![App Name 1](Poke-Match.png)
+
+_Description: Briefly describe what this app does and any notable technologies used._
+
+#### Collage Register App: [App Name 2]([link-to-app2](https://github.com/AlejoC98/RegisterApp))
+
+![App Name 2](RegisterApp.png)
+
+_Description: Briefly describe what this app does and any notable technologies used._
+
+#### Rating Movie App: [App Name 3]([link-to-app3]([https://github.com/AlejoC98/RegisterApp](https://github.com/AlejoC98/film-folio)))
+
+![App Name 3](RegisterApp.png)
+
+_Description: Briefly describe what this app does and any notable technologies used._
+
+Feel free to explore these projects by clicking on the links above. You can find more of my work in my [GitHub repositories](link-to-your-github).
