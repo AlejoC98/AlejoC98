@@ -22,19 +22,19 @@ Feel free to connect with me and explore my work. Let's collaborate and build am
 
 Here are two of my latest projects that I'm proud of:
 
-#### Poke Match Game: ([link-to-app1](https://github.com/AlejoC98/React-PokeApp))
+#### Poke Match Game: ([Check Me!](https://github.com/AlejoC98/React-PokeApp))
 
 ![App Name 1](Poke-Match.png)
 
 _Description: Briefly describe what this app does and any notable technologies used._
 
-#### Collage Register App: ([link-to-app2](https://github.com/AlejoC98/RegisterApp))
+#### Collage Register App: ([Check Me!](https://github.com/AlejoC98/RegisterApp))
 
 ![App Name 2](RegisterApp.png)
 
 _Description: Briefly describe what this app does and any notable technologies used._
 
-#### Rating Movie App: ([link-to-app3]([https://github.com/AlejoC98/RegisterApp](https://github.com/AlejoC98/film-folio)))
+#### Rating Movie App: ([Check Me!]([https://github.com/AlejoC98/RegisterApp](https://github.com/AlejoC98/film-folio)))
 
 ![App Name 3](FilmFolio.png)
 
