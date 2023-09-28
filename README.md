@@ -38,6 +38,6 @@ _Description: Welcome to RegisterApp, the ultimate Collage Course Management Sys
 
 ![App Name 3](FilmFolio.png)
 
-_Description: Briefly describe what this app does and any notable technologies used._
+_Description: Step into the world of cinematic exploration with FilmFolio, your one-stop destination for movie enthusiasts. FilmFolio is a feature-rich platform that allows you to dive deep into the world of films, rate your favorites, share your thoughts, and build your personal movie collection._
 
 Feel free to explore these projects by clicking on the links above. You can find more of my work in my [GitHub repositories](link-to-your-github).
