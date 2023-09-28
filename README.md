@@ -32,7 +32,7 @@ _Description: Dive into the captivating world of Pokémon with my Poke Match Gam
 
 ![App Name 2](RegisterApp.png)
 
-_Description: Briefly describe what this app does and any notable technologies used._
+_Description: Welcome to RegisterApp, the ultimate Collage Course Management System designed to streamline the educational experience for both students and teachers. With RegisterApp, you can efficiently manage courses, track students' progress, and facilitate communication within your academic community._
 
 #### Rating Movie App: ([Check Me!]([https://github.com/AlejoC98/RegisterApp](https://github.com/AlejoC98/film-folio)))
 
