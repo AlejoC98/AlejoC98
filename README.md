@@ -15,3 +15,5 @@ I'm a passionate web developer and programming enthusiast based in Salt Lake Cit
 I've worked on a diverse range of projects, from web applications to mobile apps. Check out some of my repositories to see my coding journey in action!
 
 Feel free to connect with me and explore my work. Let's collaborate and build amazing things together! 🌟
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejoC98)](https://github.com/AlejoC98/github-readme-stats)
