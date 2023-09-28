@@ -22,7 +22,7 @@ Feel free to connect with me and explore my work. Let's collaborate and build am
 
 Here are two of my latest projects that I'm proud of:
 
-#### Poke Match Game: (https://github.com/AlejoC98/React-PokeApp)
+#### Poke Match Game: ([link-to-app1](https://github.com/AlejoC98/React-PokeApp))
 
 ![App Name 1](Poke-Match.png)
 
