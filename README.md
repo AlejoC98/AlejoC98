@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Alejandro Gomez 👋
 
-<!--
-**AlejoC98/AlejoC98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer and programming enthusiast based in Salt Lake City, Utah, originally from Colombia. Currently, I'm pursuing a Web Development and Programming career at Mountainland Technical College (Mtech). I thrive on crafting software solutions and exploring the limitless possibilities of code.
 
-Here are some ideas to get you started:
+#### What I Love to Do 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Creating web applications using a variety of programming languages, including JavaScript, Python, and utilizing databases like MySQL.
+- ⚛️ Building interactive and dynamic user interfaces with front-end frameworks like React and Angular.
+- 🖥️ Exploring the world of server-side development with Node.js.
+- 📱 Developing cross-platform mobile apps with Flutter.
+- 🧩 Solving complex problems and learning something new every day.
+
+#### My Projects 🛠️
+
+I've worked on a diverse range of projects, from web applications to mobile apps. Check out some of my repositories to see my coding journey in action!
+
+Feel free to connect with me and explore my work. Let's collaborate and build amazing things together! 🌟
